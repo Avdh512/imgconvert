@@ -22,7 +22,7 @@ A lightweight Python package for image format conversion supporting 15+ popular 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/imgconvert.git
+git clone https://github.com/Avdh512/imgconvert
 cd imgconvert
 
 # Install the package in development mode
